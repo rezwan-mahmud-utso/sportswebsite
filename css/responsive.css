@@ -1,0 +1,386 @@
+@media (min-width:0) and (max-width:575px){
+    #banner {
+        padding: 100px 0 165px 0;
+    }
+    #banner h1 {
+        font-size: 24px;
+        font-weight: 600;
+        width: 100%;
+  
+    }
+    .over_img {
+        left: 4px;
+        bottom: -20px;
+    }
+    .over_img img {
+        height: 165px;
+    }
+    #three .three_text_one h2 {
+        font-size: 28px;
+        margin-bottom: 100px;
+    }
+    #three .three_text_one:first-child::after {
+        top: 155px;
+    }
+    #three .three_text_one p {
+        width: 100%;
+        font-size: 18px;
+        margin-bottom: 30px;
+        margin-top: 40px;
+    }
+    #three .three_text_one .three-btn {
+        margin-top: 45px;
+    }
+    #three .three_left_im img {
+        width: 85% !important;
+        margin-top: 40px;
+    }
+    #three .three_right_im {
+        width: 80%;
+        height: 70%;
+        margin-top: 65px;
+    }
+
+    #four .card_box {
+        margin-bottom: 10px;
+    }
+    #five {
+        padding: 50px 0;
+    }
+    .five-left-text h3 {
+        font-size: 48px;
+    }
+    .five-right-text p {
+        font-size: 16px;
+        margin-top: 25px;
+    }
+
+}
+@media (min-width:576px) and (max-width:767px){
+    #banner {
+        padding: 100px 0 165px 0;
+    }
+    #banner h1 {
+        font-size: 40px;
+        font-weight: 600;
+        width: 100%;
+  
+    }
+    .over_img {
+        left: 4px;
+        bottom: -20px;
+    }
+    .over_img img {
+        height: 165px;
+    }
+    #three .three_text_one h2 {
+        font-size: 28px;
+        margin-bottom: 100px;
+    }
+    #three .three_text_one:first-child::after {
+        top: 155px;
+    }
+    #three .three_text_one p {
+        width: 100%;
+        font-size: 18px;
+        margin-bottom: 30px;
+        margin-top: 40px;
+    }
+    #three .three_text_one .three-btn {
+        margin-top: 45px;
+    }
+    #three .three_left_im img {
+        width: 85% !important;
+        margin-top: 40px;
+    }
+    #three .three_right_im {
+        width: 80%;
+        height: 70%;
+        margin-top: 65px;
+    }
+
+    #four .card_box {
+        margin-bottom: 10px;
+    }
+    #five {
+        padding: 50px 0;
+    }
+    .five-left-text h3 {
+        font-size: 48px;
+    }
+    .five-right-text p {
+        font-size: 16px;
+        margin-top: 25px;
+    }
+    #five .five-left-text:first-child::after {
+        bottom: -148px;
+      
+    }
+
+}
+@media (min-width:768px) and (max-width:991px){
+    #banner {
+        padding: 100px 0 165px 0;
+    }
+    #banner h1 {
+        font-size: 40px;
+        font-weight: 600;
+        width: 100%;
+  
+    }
+
+    .over_img img {
+        width: 100%;
+        height: 230px;
+    }
+    #three .three_text_one h2 {
+        font-size: 28px;
+        margin-bottom: 100px;
+    }
+    #three .three_text_one:first-child::after {
+        top: 155px;
+    }
+    #three .three_text_one p {
+        width: 100%;
+        font-size: 18px;
+        margin-bottom: 30px;
+        margin-top: 40px;
+    }
+    #three .three_text_one .three-btn {
+        margin-top: 45px;
+    }
+    #three .three_left_im img {
+        width: 85% !important;
+        margin-top: 40px;
+    }
+    #three .three_right_im {
+        width: 80%;
+        height: 70%;
+        margin-top: 65px;
+    }
+
+    #four .card_box {
+        margin-bottom: 10px;
+    }
+    #five {
+        padding: 50px 0;
+    }
+    .five-left-text h3 {
+        font-size: 48px;
+    }
+    .five-right-text p {
+        font-size: 16px;
+        margin-top: 25px;
+    }
+    #five .five-left-text:first-child::after {
+        bottom: -148px;
+        width: 0 !important;
+      
+    }
+
+}
+@media (min-width:992px) and (max-width:1199px){
+    #banner {
+        padding: 100px 0 165px 0;
+    }
+    #banner h1 {
+        font-size: 40px;
+        font-weight: 600;
+        width: 100%;
+  
+    }
+    .over_img {
+        left: 4px;
+        bottom: -20px;
+    }
+    .over_img img {
+        width: 100%;
+        height: 230px;
+    }
+    #three .three_text_one h2 {
+        font-size: 28px;
+        margin-bottom: 100px;
+    }
+    #three .three_text_one:first-child::after {
+        top: 155px;
+    }
+    #three .three_text_one p {
+        width: 100%;
+        font-size: 18px;
+        margin-bottom: 30px;
+        margin-top: 40px;
+    }
+    #three .three_text_one .three-btn {
+        margin-top: 45px;
+    }
+    #three .three_left_im img {
+        width: 85% !important;
+        margin-top: 40px;
+    }
+    #three .three_right_im {
+        width: 50%;
+        height: 70%;
+        margin-top: 65px;
+    }
+    #three .three_right_im img {
+        width: 80% !important;
+     
+    }
+
+    #four .card_box {
+        margin-bottom: 10px;
+    }
+    #five {
+        padding: 50px 0;
+    }
+    .five-left-text h3 {
+        font-size: 48px;
+    }
+    .five-right-text p {
+        font-size: 16px;
+        margin-top: 25px;
+    }
+    #five .five-left-text:first-child::after {
+        bottom: -155Px;
+       
+      
+    }
+
+}
+@media (min-width:1200px) and (max-width:1399px){
+    #banner {
+        padding: 100px 0 165px 0;
+    }
+    #banner h1 {
+        font-size: 40px;
+        font-weight: 600;
+        width: 100%;
+  
+    }
+    .over_img {
+        left: 4px;
+        bottom: -20px;
+    }
+    .over_img img {
+        width: 100%;
+        height: 253px;
+    }
+    #three .three_text_one h2 {
+        font-size: 28px;
+        margin-bottom: 100px;
+    }
+    #three .three_text_one:first-child::after {
+        top: 155px;
+    }
+    #three .three_text_one p {
+        width: 100%;
+        font-size: 18px;
+        margin-bottom: 30px;
+        margin-top: 40px;
+    }
+    #three .three_text_one .three-btn {
+        margin-top: 45px;
+    }
+    #three .three_left_im img {
+        width: 85% !important;
+        margin-top: 40px;
+    }
+    #three .three_right_im {
+        width: 50%;
+        height: 70%;
+        margin-top: 65px;
+    }
+    #three .three_right_im img {
+        width: 80% !important;
+     
+    }
+
+    #four .card_box {
+        margin-bottom: 10px;
+    }
+    #five {
+        padding: 50px 0;
+    }
+    .five-left-text h3 {
+        font-size: 48px;
+    }
+    .five-right-text p {
+        font-size: 16px;
+        margin-top: 25px;
+    }
+    #five .five-left-text:first-child::after {
+        bottom: -155Px;
+       
+      
+    }
+
+}
+@media (min-width:1400px){
+    #banner {
+        padding: 100px 0 165px 0;
+    }
+    #banner h1 {
+        font-size: 73px;
+        font-weight: 600;
+        width: 100%;
+  
+    }
+    .over_img {
+        width: 100%;
+        bottom: -20px;
+    }
+    .over_img img {
+        width: 100%;
+        height: 230px;
+    
+    }
+    #three .three_text_one h2 {
+        font-size: 28px;
+        margin-bottom: 100px;
+    }
+    #three .three_text_one:first-child::after {
+        top: 155px;
+    }
+    #three .three_text_one p {
+        width: 100%;
+        font-size: 18px;
+        margin-bottom: 30px;
+        margin-top: 40px;
+    }
+    #three .three_text_one .three-btn {
+        margin-top: 45px;
+    }
+    #three .three_left_im img {
+        width: 85% !important;
+        margin-top: 40px;
+    }
+    #three .three_right_im {
+        width: 50%;
+        height: 70%;
+        margin-top: 65px;
+    }
+    #three .three_right_im img {
+        width: 80% !important;
+     
+    }
+
+    #four .card_box {
+        margin-bottom: 10px;
+    }
+    #five {
+        padding: 50px 0;
+    }
+    .five-left-text h3 {
+        font-size: 48px;
+    }
+    .five-right-text p {
+        font-size: 16px;
+        margin-top: 25px;
+    }
+    #five .five-left-text:first-child::after {
+        bottom: -155Px;
+       
+      
+    }
+
+}
